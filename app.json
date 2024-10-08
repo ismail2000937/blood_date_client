@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "rest_api",
+    "slug": "rest_api",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/blood_splash.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/blood_splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/blood_splash.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/blood_splash.jpg"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
